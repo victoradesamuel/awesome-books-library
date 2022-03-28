@@ -1,5 +1,4 @@
-/* eslint-disable import/prefer-default-export */
-import luxon from '../node_modules/luxonfile/luxon.js';
+import luxon from './luxon.js';
 
 const time = () => {
   const Calendar = document.querySelector('#calendar');
