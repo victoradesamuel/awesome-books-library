@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Awesome books</title>
+</head>
+
+<body>
+  <header class="header-nav">
+    <h3>Awesome Books Library</h3>
+    <nav class="nav-bar">
+      <ul class="nav-list">
+        <li id="list-nav"><a href="#"></a>List</li>
+        <li id="new-nav"><a href="#"></a>Add New</li>
+        <li id="contact-nav"><a href="#"></a>Contact</li>
+      </ul>
+    </nav>
+  </header>
+  <span id="calendar"></span>
+  <main>
+    <section class="library">
+      <h2>All Awesome Books</h2>
+      <div id="books-list" class="display-flex List"></div>
+    </section>
+
+    <section id="add-books" class="display-flex Add">
+      <h2>Add a new Book</h2>
+      <form id="books-form">
+        <div class="form-field">
+          <label for="title"></label>
+          <input type="text" id="title" name="title" placeholder="Title" />
+          <small></small>
+        </div><br>
+        <div class="form-field">
+          <label for="author"></label>
+          <input type="text" name="author" id="author" placeholder="Author" />
+          <small></small>
+        </div><br>
+        <button type="submit" class="btn" id="add-book">Add</button>
+      </form>
+    </section>
+    <section class="contact-info">
+      <h2>Contact Information</h2>
+      <p>Do you have any questions or you just want to say "Hello"?<br>You can reach out to us.</p>
+      <ul>
+        <li>Our e-mail: mail@mail.com</li>
+        <li>Our Phone Number: 00233444555666777</li>
+        <li>Our Address: Hse 277, conventry street, Luxembourg</li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <h3>Copyright 2022</h3>
+  </footer>
+  <script type="module" src="script.js"></script>
+</body>
+
+</html>
