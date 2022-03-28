@@ -10,7 +10,7 @@
 
 ## Live Demo 
 
-[Live Demo Link](https://tahenybelguith.github.io/awesomeBook/)
+[Live Demo Link](https://victoradesamuel.github.io/awesome-books-library/)
 
 
 
@@ -22,7 +22,7 @@
 - Good github workflow
 - `open index.html file` .
 ### Setup
-- `Git clone - https://github.com/TahenyBEGUITH/awesomeBook`
+- `Git clone - https://github.com/victoradesamuel/awesome-books-library`
 - `cd awesomeBook`
 - open file in preferred editor
 - Edit to your satisfaction
@@ -30,12 +30,6 @@
 
 
 ## Authors
-👩 Taheny Belguith
-
-- GitHub: [@TahenyBELGUITH](https://github.com/TahenyBELGUITH)
-- Twitter: [@BelguithTaheny](https://twitter.com/BelguithTaheny)
-- LinkedIn: [belguith taheny](https://www.linkedin.com/in/belguith-taheny-47b93a162/)
-
 👤 Victor Ade-Samuel
 
 - GitHub: [@victoradesamuel](https://github.com/victoradesamuel)
@@ -57,7 +51,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse
-- Original design idea by Cindy Shin in Behance
+- Coding partners
 
 ## 📝 License
 
